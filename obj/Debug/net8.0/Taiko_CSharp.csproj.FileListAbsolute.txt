@@ -1,0 +1,14 @@
+d:\Programing\source\CSharp\Taiko_CSharp\bin\Debug\net8.0\Taiko_CSharp.exe
+d:\Programing\source\CSharp\Taiko_CSharp\bin\Debug\net8.0\Taiko_CSharp.deps.json
+d:\Programing\source\CSharp\Taiko_CSharp\bin\Debug\net8.0\Taiko_CSharp.runtimeconfig.json
+d:\Programing\source\CSharp\Taiko_CSharp\bin\Debug\net8.0\Taiko_CSharp.dll
+d:\Programing\source\CSharp\Taiko_CSharp\bin\Debug\net8.0\Taiko_CSharp.pdb
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\Taiko_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\Taiko_CSharp.AssemblyInfoInputs.cache
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\Taiko_CSharp.AssemblyInfo.cs
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\Taiko_CSharp.csproj.CoreCompileInputs.cache
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\Taiko_CSharp.dll
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\refint\Taiko_CSharp.dll
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\Taiko_CSharp.pdb
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\Taiko_CSharp.genruntimeconfig.cache
+d:\Programing\source\CSharp\Taiko_CSharp\obj\Debug\net8.0\ref\Taiko_CSharp.dll

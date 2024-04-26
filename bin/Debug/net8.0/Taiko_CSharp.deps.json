@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Taiko_CSharp/1.0.0": {
+        "runtime": {
+          "Taiko_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taiko_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
